@@ -1,4 +1,4 @@
-import faker from 'faker/locale/en';
+import { faker } from '@faker-js/faker';
 
 class Seeder {
   constructor(collection, options) {
